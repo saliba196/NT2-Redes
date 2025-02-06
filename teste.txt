@@ -1,0 +1,4 @@
+make cliente_static
+make cliente_dynamic
+make servidor_static
+make servidor_dynamic
